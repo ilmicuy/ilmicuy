@@ -8,7 +8,7 @@ Saya bertanggung jawab pada kualitas materi Full Stack Web Development dengan di
 <!--
 Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.\
 -->
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mascuy-ilmi-119584192/), [Instagram](https://www.instagram.com/ilmi.cuy/), [Discord](https://discord.io/MUFFIN_)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mascuy-ilmi-119584192/), [Instagram](https://www.instagram.com/ilmi.cuy/), [Discord](https://discord.io/MUFFIN_) ku ya.
 
 <!--
 **ilmicuy/ilmicuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
