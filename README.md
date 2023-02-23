@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Nur Ilmi**.\
+Perkenalkan nama saya **Muhammad Nur Ilmi**.
 
 Saya seorang **Mahasiswa** Program Studi S1 Sistem Informasi di [Universitas Komputer Indonesia](https://www.unikom.ac.id/).
 
