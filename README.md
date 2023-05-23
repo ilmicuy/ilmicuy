@@ -1,3 +1,5 @@
+![ezgif com-resize (1)](https://github.com/ilmicuy/ilmicuy/assets/126063465/9dd23e8d-b69b-4f4a-baaa-99c1da33dc47)
+
 # 💫 About Me:
 🔭 I’m currently working on GiziPlus Capstone Project<br>🌱 I’m currently learning HTML, CSS, Javascript<br>💬 Ask me about life, work, or anything else<br>⚡ Fun fact I'm open to everyone
 
